@@ -1,9 +1,9 @@
-# UTS_ML2019_ID13144148
-Machine Learning Assignment Tasks
+# Machine Learning: Principal Component Analysis for Face Recognition
 
-#I am learning how to use GitHub
 
-Hello,
+#Welcome
 
-my name is Carlos and I am undertaking machine learning
+This work was developed to explain in detail how face recognition algorithms work.
+
+enjoy it
 
